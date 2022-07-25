@@ -14,13 +14,19 @@
 ## **Description**
 Generate a README.md file using Node.js
 
-## **Installation**
-NA
+## **Installation &#128391;**
+1. Clone the repository and download it to your computer
+2. Install **[Inquirer](https://www.npmjs.com/package/inquirer)** using the following command line prompts
+
+<span style="background-color:#696969; border-radius:5px">npm init</span>
+
+<span style="background-color:#696969; border-radius:5px">npm install inquirer</span>
 
 ## **Usage**
-NA
+[Click to watch the demonstration &#127916;](https://youtu.be/M-7onZAEc50)
 
-## License
+
+## License &#128214;
             Licensed under the BSD license
 
 ## **Contributions**
@@ -32,5 +38,5 @@ NA
 ## **Questions**
 ### Contact me below:
 * **Github:** [James-Fraser1](https://github.com/James-Fraser1)
-* fraserjd16@gmail.com
+*  fraserjd16@gmail.com &#128233;
     
