@@ -45,16 +45,18 @@ THEN I am taken to the corresponding section of the README
 1. Clone the repository and download it to your computer
 2. Install **[Inquirer](https://www.npmjs.com/package/inquirer)** using the following command line prompts
 
-<span style="background-color:#696969; border-radius:5px">npm init</span>
+&#10148; npm init
 
-<span style="background-color:#696969; border-radius:5px">npm i inquirer@8.2.4</span>
+&#10148; npm i inquirer@8.2.4
 
 
 ## **Usage**
-Initiate the application using the command line prompt:
-<span style="background-color:#696969; border-radius:5px">node index.js</span>
 
-[Click to watch the demonstration &#127916;](https://youtu.be/M-7onZAEc50)
+**[Click to watch the demonstration &#127916;](https://youtu.be/M-7onZAEc50)**
+
+Initiate the application using the command line prompt
+
+&#10148; node index.js
 
 
 ## License &#128214;
